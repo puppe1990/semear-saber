@@ -9,7 +9,7 @@ interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-	author: 'DanielCG', // Site author
+	author: 'Matheus Puppe', // Site author
 	title: 'Blog Semear Saber', // Site title.
 	description: 'Blog focado em plantação de legumes, frutas e vegetais', // Description to display in the meta tags
 	lang: 'en-GB',
